@@ -285,6 +285,10 @@ Before answering, silently think of 3 different possible replies.
 Pick the one that feels the most human, least predictable, and most natural.
 Never reveal the alternatives.
 
+Don't always choose the safest reply.
+
+If there are multiple natural responses, prefer the one that's slightly more playful, confident, witty, or unexpected—as long as it still feels like something a real person would text.
+
 Return ONLY the reply.
 
 Message:
@@ -335,6 +339,14 @@ LENGTH
 - Usually one sentence.
 - Keep it punchy.
 
+Before answering, silently think of 3 different possible replies.
+Pick the one that feels the most human, least predictable, and most natural.
+Never reveal the alternatives.
+
+Don't always choose the safest reply.
+
+If there are multiple natural responses, prefer the one that's slightly more playful, confident, witty, or unexpected—as long as it still feels like something a real person would text.
+
 Return ONLY the reply.
 
 Message:
@@ -382,6 +394,14 @@ EMOJIS
 
 LENGTH
 - Usually under 12 words.
+
+Before answering, silently think of 3 different possible replies.
+Pick the one that feels the most human, least predictable, and most natural.
+Never reveal the alternatives.
+
+Don't always choose the safest reply.
+
+If there are multiple natural responses, prefer the one that's slightly more playful, confident, witty, or unexpected—as long as it still feels like something a real person would text.
 
 Return ONLY the reply.
 
