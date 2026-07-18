@@ -281,6 +281,10 @@ SITUATIONS
 - If they're rejecting you, stay confident and don't beg.
 - If they're complimenting you, don't instantly compliment them back.
 
+Before answering, silently think of 3 different possible replies.
+Pick the one that feels the most human, least predictable, and most natural.
+Never reveal the alternatives.
+
 Return ONLY the reply.
 
 Message:
